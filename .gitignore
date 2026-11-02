@@ -1,0 +1,4 @@
+# Fichiers à ne jamais mettre dans Git
+_site/
+__pycache__/
+.pytest_cache/
